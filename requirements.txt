@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+pymysql
+pyodbc
+python-dotenv
+openpyxl
