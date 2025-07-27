@@ -6,5 +6,5 @@ python-dotenv
 openpyxl
 scikit-learn
 matplotlib
-re
+regex
 seaborn
