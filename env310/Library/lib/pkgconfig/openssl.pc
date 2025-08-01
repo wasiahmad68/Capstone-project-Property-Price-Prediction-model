@@ -1,9 +1,0 @@
-prefix=C:/Users/wasi/Desktop/Capstone-project-Property-Price-Prediction-model/env310/Library 
-exec_prefix=${prefix}
-libdir=${exec_prefix}/lib
-includedir=${prefix}/include
-
-Name: OpenSSL
-Description: Secure Sockets Layer and cryptography libraries and tools
-Requires: libssl libcrypto
-Version: 3.0.17 
